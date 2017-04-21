@@ -1,0 +1,114 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-08-06 15:46-0500\n"
+"PO-Revision-Date: 2012-03-12 11:20+0200\n"
+"Last-Translator: Meechai <malaku38@hotmail.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: th\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Pootle 2.0.5\n"
+
+#: activity/activity.info:2
+msgid "Sugar Commander"
+msgstr "Sugar Commander"
+
+#: /home/jim/olpc/sugar-commander/mainline/sugarcommander.py:76
+#: /home/jim/olpc/sugar-commander/mainline/sugarcommander.py:157
+msgid "Title"
+msgstr "ชื่อเรื่อง"
+
+#: /home/jim/olpc/sugar-commander/mainline/sugarcommander.py:85
+msgid "Size (KB)"
+msgstr "ขนาด (KB)"
+
+#: /home/jim/olpc/sugar-commander/mainline/sugarcommander.py:92
+msgid "MIME Type"
+msgstr "ประเภท MIME"
+
+#: /home/jim/olpc/sugar-commander/mainline/sugarcommander.py:107
+msgid "Journal"
+msgstr "บันทึกประจำวัน"
+
+#: /home/jim/olpc/sugar-commander/mainline/sugarcommander.py:124
+msgid "Resize To Width"
+msgstr "การปรับขนาดความกว้าง"
+
+#: /home/jim/olpc/sugar-commander/mainline/sugarcommander.py:138
+msgid "Save"
+msgstr "บันทึก"
+
+#: /home/jim/olpc/sugar-commander/mainline/sugarcommander.py:146
+msgid "Delete"
+msgstr "ลบ"
+
+#: /home/jim/olpc/sugar-commander/mainline/sugarcommander.py:172
+msgid "Description"
+msgstr "คำอธิบาย"
+
+#: /home/jim/olpc/sugar-commander/mainline/sugarcommander.py:190
+msgid "Tags"
+msgstr "ป้ายกำกับ"
+
+#: /home/jim/olpc/sugar-commander/mainline/sugarcommander.py:246
+msgid "Copy File To The Journal"
+msgstr "คัดลอกไฟล์ไปที่บันทึกประจำวัน"
+
+#: /home/jim/olpc/sugar-commander/mainline/sugarcommander.py:254
+msgid "Files"
+msgstr "ไฟล์"
+
+#: /home/jim/olpc/sugar-commander/mainline/sugarcommander.py:328
+msgid "Error"
+msgstr "ข้อผิดพลาด"
+
+#: /home/jim/olpc/sugar-commander/mainline/sugarcommander.py:328
+msgid "Image cannot be made larger, only smaller."
+msgstr "ไม่สามารถขยายภาพให้ใหญ่ขึ้น, ทำได้เพียงย่อขนาด"
+
+#: /home/jim/olpc/sugar-commander/mainline/sugarcommander.py:349
+#, python-format
+msgid "Entry %s resized."
+msgstr "รายการ %s ถูกเปลี่ยนขนาด"
+
+#: /home/jim/olpc/sugar-commander/mainline/sugarcommander.py:392
+#, python-format
+msgid "Entry %s deleted."
+msgstr "รายการ %s ถูกลบ"
+
+#: /home/jim/olpc/sugar-commander/mainline/sugarcommander.py:425
+#, python-format
+msgid "Entry title changed to %s"
+msgstr "ชื่อรายการเปลี่ยนเป็น %s"
+
+#: /home/jim/olpc/sugar-commander/mainline/sugarcommander.py:432
+#, python-format
+msgid "Entry %s tags updated."
+msgstr "รายการ %s ถูกปรับปรุงป้ายกำกับ"
+
+#: /home/jim/olpc/sugar-commander/mainline/sugarcommander.py:439
+#, python-format
+msgid "Entry %s description updated."
+msgstr "รายการ %s ถูกปรับปรุงรายละเอียด"
+
+#: /home/jim/olpc/sugar-commander/mainline/sugarcommander.py:617
+#, python-format
+msgid "File %s copied to the Journal."
+msgstr "ไฟล์จำนวน %s ถูกคัดลอกไปยังบันทึกประจำวัน"
+
+#: /home/jim/olpc/sugar-commander/mainline/sugarcommander.py:618
+msgid "Success"
+msgstr "สำเร็จ"
+
+#: /home/jim/olpc/sugar-commander/mainline/sugarcommander.py:618
+#, python-format
+msgid "%s added to Journal."
+msgstr "%s ถูกเพิ่มไปยังบันทึกประจำวัน"
